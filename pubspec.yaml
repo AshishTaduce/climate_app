@@ -18,3 +18,7 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+
+  assets:
+    - assets/hdc4zr5havh11.jpg
+    - assets/AMOLED Wallpaper.jpg
